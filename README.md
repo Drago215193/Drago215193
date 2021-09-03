@@ -7,7 +7,7 @@
 -💬 Ask me about Web Design and Development.<br>
 -📫 How to reach me: Gmail - @drago215193@gmail.com <br>
 -😄 Pronouns: He/His <br>
--⚡ Fun fact: I spend almost hours listening to songs on repeat every day. <br>
+-⚡ Fun fact: I spend almost hours listening to songs on repeat every day. <br><br>
 
 #<strong><strong>What if you like my work?</strong></strong> 🤩<br><br>
 -You can Star ⭐ the repositories you like.<br>
