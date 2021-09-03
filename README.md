@@ -9,6 +9,6 @@
 -😄 Pronouns: He/His <br>
 -⚡ Fun fact: I spend almost hours listening to songs on repeat every day. <br><br>
 
-#<strong><strong>What if you like my work?</strong></strong> 🤩<br>
+<strong><strong>What if you like my work?</strong></strong> 🤩<br><br>
 -You can Star ⭐ the repositories you like.<br>
 -You can react ❤️ to my LinkedIn posts.<br>
