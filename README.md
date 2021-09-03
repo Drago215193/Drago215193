@@ -1,14 +1,14 @@
 ## Hey, I'm [Ankit Yadav!](https://drago215193.github.io/) 👋
 
-🔭 I’m currently working on My Portfolio.
-🌱 I’m currently learning more about React.js and Java.
-👯 I’m looking to collaborate on some major web-development projects.
-🤔 I’m looking for help with react.js.
-💬 Ask me about Web Design and Development.
-📫 How to reach me: Gmail - @ankityadav215193@gmail.com , Instagram - @__a_n_k_i_t_._
-😄 Pronouns: He/His
-⚡ Fun fact: I spend almost hours listening to songs on repeat every day.
+-🔭 I’m currently working on My Portfolio.<br>
+-🌱 I’m currently learning more about React.js and Java.<br>
+-👯 I’m looking to collaborate on some major web-development projects.<br>
+-🤔 I’m looking for help with react.js.<br>
+-💬 Ask me about Web Design and Development.<br>
+-📫 How to reach me: Gmail - @drago215193@gmail.com <br>
+-😄 Pronouns: He/His <br>
+-⚡ Fun fact: I spend almost hours listening to songs on repeat every day. <br>
 
 <strong>What if you like my work?</strong> 🤩
-You can Star ⭐ the repositories you like.
-You can react ❤️ to my LinkedIn posts
+-You can Star ⭐ the repositories you like.<br>
+-You can react ❤️ to my LinkedIn posts.<br>
