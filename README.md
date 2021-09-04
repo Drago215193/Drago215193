@@ -1,4 +1,4 @@
-<h1> Hey, I'm [Ankit Yadav!(Drago)](https://drago215193.github.io/) <img src="https://github.com/Drago215193/Drago215193/blob/main/logos/Hi.gif" width="30px"></h1>
+# Hey, I'm [Ankit Yadav!(Drago)](https://drago215193.github.io/) <img src="https://github.com/Drago215193/Drago215193/blob/main/logos/Hi.gif" width="30px">
 <br>
 <h2><strong><strong>Have any Project in mind? <strong>Say Hello at:</strong> </strong></strong></h2><br>
 
