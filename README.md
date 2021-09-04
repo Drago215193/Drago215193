@@ -1,13 +1,13 @@
 ## Hey, I'm [Ankit Yadav!(Drago)](https://drago215193.github.io/) <img src="https://github.com/Drago215193/Drago215193/blob/main/logos/Hi.gif" width="30px">
 <br>
-<strong><strong>Have any Project in mind? <b>Say Hello at:<b>  </strong></strong><br>
+<strong><strong>Have any Project in mind? <b>Say Hello at:<b>  </strong></strong><br><br>
 
 <a href="https://www.linkedin.com/in/ankit-yadav-1682b01bb/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/linkedin.png" width="40"/></a>
 <a href="https://github.com/Drago215193"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/github-logo.png" width="40"/></a>
 <a href="https://www.facebook.com/drago215193/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/facebook.png" width="40"/></a>
 <a href="mailto:ankityadav215193@gmail.com"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/google-plus.png" width="40"/></a>
 <a href="https://twitter.com/Drago215193/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/twitter.png" width="40"/></a>
-<a href="https://www.instagram.com/__a_n_k_i_t_._/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/instagram.png" width="40"/></a><br><br>
+<a href="https://www.instagram.com/__a_n_k_i_t_._/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/instagram.png" width="40"/></a><br>
 
 
 -🔭 I’m currently working on My Portfolio.<br>
