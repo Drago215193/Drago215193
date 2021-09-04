@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/drago215193/" target="_blank"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/facebook.png" width="40" padding="10 10 10 10"/></a>
 <a href="mailto:ankityadav215193@gmail.com" target="_blank"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/google-plus.png" width="40" padding="10 10 10 10"/></a>
 <a href="https://twitter.com/Drago215193/" target="_blank"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/twitter.png" width="40" padding="10 10 10 10"/></a>
-<a href="https://www.instagram.com/__a_n_k_i_t_._/" target="_blank"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/instagram.png" width="40" padding="10 10 10 10"/></a>
+<a href="https://www.instagram.com/__a_n_k_i_t_._/" target="_blank"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/instagram.png" width="40" padding="10 10 10 10"/></a><br><br>
 -🔭 I’m currently working on My Portfolio.<br>
 -🌱 I’m currently learning more about React.js and Java.<br>
 -👯 I’m looking to collaborate on some major web-development projects.<br>
