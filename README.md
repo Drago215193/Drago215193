@@ -1,6 +1,6 @@
-## Hey, I'm [Ankit Yadav!(Drago)](https://drago215193.github.io/) <img src="https://github.com/Drago215193/Drago215193/blob/main/logos/Hi.gif" width="30px">
+<h1> Hey, I'm [Ankit Yadav!(Drago)](https://drago215193.github.io/) <img src="https://github.com/Drago215193/Drago215193/blob/main/logos/Hi.gif" width="30px"></h1>
 <br>
-<h2><strong><strong>Have any Project in mind? <strong>Say Hello at:</strong> </strong></strong></h2><br><br>
+<h2><strong><strong>Have any Project in mind? <strong>Say Hello at:</strong> </strong></strong></h2><br>
 
 <a href="https://www.linkedin.com/in/ankit-yadav-1682b01bb/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/linkedin.png" width="40"/></a>
 <a href="https://github.com/Drago215193"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/github-logo.png" width="40"/></a>
