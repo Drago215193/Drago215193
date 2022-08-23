@@ -10,9 +10,9 @@
 <a href="https://www.instagram.com/__a_n_k_i_t_._/"><img src="https://github.com/Drago215193/Drago215193/blob/main/logos/instagram.png" width="40"/></a><br>
 
 -🔭 I’m currently working on My Portfolio.<br>
--🌱 I’m currently learning more about React.js and Java.<br>
--👯 I’m looking to collaborate on some web-development projects.<br>
--🤔 I’m looking for help with react.js.<br>
+-🌱 I’m currently learning more about React.js and Java Full Stack.<br>
+-👯 I’m looking to collaborate on some web-development projects and some live projects.<br>
+-🤔 I’m looking for help with react.js and Java Full Stack.<br>
 -💬 Ask me about Web Design and Development.<br>
 -📫 How to reach me: Gmail - @drago215193@gmail.com <br>
 -😄 Pronouns: He/His. <br>
